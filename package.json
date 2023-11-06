@@ -1,6 +1,6 @@
 {
   "name": "@mjschanne/exercise-publish-package",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This exercise checks your ability to publish to a GitHub Packages registry. It is automatically graded via a workflow once you have completed the instructions.",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,9 @@
   "license": "ISC",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjschanne/exercise-publish-package"
   }
 }

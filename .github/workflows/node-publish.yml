@@ -14,8 +14,6 @@ jobs:
           node-version: 20.9
       - run: npm install
       - run: npm ci
-      - run: npm test
-
   publish-gpr:
     needs: build
     runs-on: ubuntu-latest

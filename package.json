@@ -1,6 +1,11 @@
 {
-  "name": "@mjschanne/foo",
+  "name": "@mjschanne/exercise-publish-package",
   "version": "1.0.0",
-  "description": "A packaged foo fooer for fooing foos",
-  "main": "index.js"
+  "description": "This exercise checks your ability to publish to a GitHub Packages registry. It is automatically graded via a workflow once you have completed the instructions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }

@@ -1,3 +1,6 @@
 {
-  "your": "json config here"
+  "name": "foo",
+  "version": "1.2.3",
+  "description": "A packaged foo fooer for fooing foos",
+  "main": "foo.js"
 }

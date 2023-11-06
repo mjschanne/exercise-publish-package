@@ -1,6 +1,6 @@
 {
-  "name": "foo",
-  "version": "1.2.3",
+  "name": "@mjschanne/foo",
+  "version": "1.0.0",
   "description": "A packaged foo fooer for fooing foos",
-  "main": "foo.js"
+  "main": "index.js"
 }
